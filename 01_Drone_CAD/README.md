@@ -5,8 +5,9 @@ proposed autonomous multi-drone system.
 
 ## CAD Models
 
+
 ### FULL DRONE
-[Open CAD Model]((https://mydau59.autodesk360.com/g/shares/SH28cd1QT2badd0ea72bc508366794fb4537))
+[Open CAD Model](https://mydau59.autodesk360.com/g/shares/SH28cd1QT2badd0ea72bc508366794fb4537)
 
 ### Drone ARM
 [Open CAD Model 01](https://a360.co/4h0V8Za)
